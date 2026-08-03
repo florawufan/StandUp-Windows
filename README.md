@@ -6,9 +6,9 @@ A lightweight Windows sitting reminder tool written in VBScript.
 
 ## Features / 功能
 
-- ⏰ Remind users to stand up regularly
-- 🪶 Lightweight and easy to use
-- 🚫 No installation required
+-  Remind users to stand up regularly
+-  Lightweight and easy to use
+-  No installation required
 
 ## Usage / 使用方法
 
