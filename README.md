@@ -33,9 +33,13 @@ A lightweight Windows VBScript tool that reminds you to take regular standing br
    
    工作期间保持脚本运行即可
 
-4. To change the timing, right-click and open `edit`, then modify the numbers on lines 3 and 4.
+4. To change the timing, right-click and open `edit`, then modify the numbers on lines 3 and 4
 
    如需修改时间，右键点击 `edit`（编辑）打开，修改第 3、4 行的数字即可
+
+5. To stop the timer midway, double-click the `Stop_Timing.vbs` file to terminate it
+
+   如需中途停止计时，使用Stop_Timing.vbs文件，双击即可终止
 
 ---
 
