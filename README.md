@@ -33,6 +33,10 @@ A lightweight Windows VBScript tool that reminds you to take regular standing br
    
    工作期间保持脚本运行即可
 
+4. To change the timing, right-click and open `edit`, then modify the numbers on lines 3 and 4.
+
+   如需修改时间，右键点击 `edit`（编辑）打开，修改第 3、4 行的数字即可
+
 ---
 
 ## Technology / 技术实现
