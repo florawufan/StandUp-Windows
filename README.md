@@ -39,7 +39,7 @@ A lightweight Windows VBScript tool that reminds you to take regular standing br
 
 5. To stop the timer midway, double-click the `Stop_Timing.vbs` file to terminate it
 
-   如需中途停止计时，使用Stop_Timing.vbs文件，双击即可终止
+   如需中途停止计时，使用 `Stop_Timing.vbs` 文件，双击即可终止
 
 ---
 
