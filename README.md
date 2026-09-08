@@ -1,4 +1,4 @@
-# 🧍 StandUp Windows (站一会儿)
+# 🧍 StandUp (站一会儿)
 
 A lightweight Windows VBScript tool that reminds you to take regular standing breaks during long work sessions.
 
