@@ -4,7 +4,6 @@ A lightweight Windows VBScript tool that reminds you to take regular standing br
 
 一款轻量级 Windows 久坐提醒工具，通过 VBScript 实现，帮助你在长时间办公时定时起身，培养更健康的工作习惯。
 
----
 
 ## Features / 功能
 
@@ -17,7 +16,6 @@ A lightweight Windows VBScript tool that reminds you to take regular standing br
 - No installation required  
   无需安装，下载即可运行
 
----
 
 ## Usage / 使用方法
 
@@ -41,7 +39,6 @@ A lightweight Windows VBScript tool that reminds you to take regular standing br
 
    如需中途停止计时，使用 `Stop_Timing.vbs` 文件，双击即可终止
 
----
 
 ## Technology / 技术实现
 
@@ -49,7 +46,6 @@ Built with Windows VBScript.
 
 基于 Windows 内置 VBScript 实现，无需额外安装运行环境。
 
----
 
 ## License / 开源协议
 
